@@ -1,7 +1,5 @@
 # Awesome Data Explorers Landscape
 
-## About
-
 Welcome to the __Awesome Data Explorers Landscape__ repo! This curated list is designed to be your gateway into the world of software, data, and technology companies across various sectors and regions. Whether you're a data enthusiast, tech professional, or just curious, the best time to __explore__ is now.
 
 ## Features
