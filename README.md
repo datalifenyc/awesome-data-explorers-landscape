@@ -29,7 +29,7 @@ Welcome to the __Awesome Data Explorers Landscape__ repo! This curated list is d
 | 2024 | [State of Data Engineering 2024](https://lakefs.io/blog/the-state-of-data-engineering-2024/)<br/><br/>[![Static Badge](https://img.shields.io/badge/lakefs%20-%20.io%20-%20blue)](https://lakefs.io/) | [![image, pdf link](./img/data-eng/sde2024.png)](https://lakefs.io/wp-content/uploads/2024/05/SoDE24-state-of-data-engineering.png) |
 | __Databases__ (SQL, NoSQL, NewSQL) | | |
 | 2024 | [PIGSTY: PostgreSQL In GreatSTYle](https://pigsty.io/docs/about/feature/)<br/><br/>[![Static Badge](https://img.shields.io/badge/pigsty%20-%20.io%20-%20blue)](https://pigsty.io) | [![image, pdf link](./img/db/pigsty2024.png)](https://pigsty.io/img/pigsty/banner.en.jpg) |
-| 2024 | [PostgreSQL Extensions Ecosystem](https://pigsty.io/docs/about/feature/)<br/><br/>[![Static Badge](https://img.shields.io/badge/pigsty%20-%20.io%20-%20blue)](https://pigsty.io) | [![image, pdf link](./img/db/pgsqlext2024.png)](https://pigsty.io/img/pigsty/ecosystem.jpg) |
+| 2024 | [PostgreSQL Extensions Ecosystem](https://pigsty.io/docs/reference/extension/)<br/><br/>[![Static Badge](https://img.shields.io/badge/pigsty%20-%20.io%20-%20blue)](https://pigsty.io) | [![image, pdf link](./img/db/pgsqlext2024.png)](https://pigsty.io/img/pigsty/ecosystem.jpg) |
 | __Edge Computing__ (IoT) | | |
 | 2018 | [Internet of Things Landscape 2018](https://mattturck.com/iot2018/)<br/><br/>[![Static Badge](https://img.shields.io/badge/mattturk%20-%20.com%20-%20blue)](https://mattturck.com) | [![image, pdf link](./img/edge/iotl2018.png)](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png) |
 | __Graph Technologies__ | | |
@@ -49,4 +49,8 @@ Welcome to the __Awesome Data Explorers Landscape__ repo! This curated list is d
 
 ## Thank you
 
-Never stop exploring your interests.
+> The __landscape__ is filled with __opportunities__.  
+> __Embrace__ your __curiosity__ for data.  
+> Your __passion__ is a __powerful__ tool.  
+> __Innovate__, discover, and make an __impact__.  
+> Never stop __exploring__ your __interests__.  
